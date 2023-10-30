@@ -1,1 +1,8 @@
+num = float(input())
+x = int(input())
+print(round(num,x))
 
+x = float(input())
+y = float(input())
+z = ((int(x) + int(y))/2)
+print(round(z))
